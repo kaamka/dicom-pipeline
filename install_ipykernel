@@ -1,0 +1,2 @@
+conda install ipykernel
+python -m ipykernel install --user --name dlwp --display-name="Python 3.6 Deep Learning With Python"
